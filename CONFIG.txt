@@ -1,5 +1,5 @@
-? name = Peter
+? name = ivan
 
-? size = 100
+? size = 123
 
-? email = peter@dir.bg
+? email = ivan@dir.bg
